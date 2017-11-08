@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  CGExample
-//
-//  Created by 岡田暁 on 2017-11-08.
-//  Copyright © 2017 Aki. All rights reserved.
-//
 
 import UIKit
 
